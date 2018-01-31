@@ -1,5 +1,5 @@
 {
-	"name": "sammaye/yii2-outdated-browser",
+	"name": "jakabj16/yii2-outdated-browser",
 	"description": "A Yii2 widget for outdated-browser",
 	"keywords": ["yii2", "extension", "browser", "outdated-browser"],
 	"type": "yii2-extension",
@@ -15,6 +15,6 @@
 		"bower-asset/outdated-browser": "1.1.0"
 	},
 	"autoload": {
-		"psr-4": {"sammaye\\outdatedBrowser\\": ""}
+		"psr-4": {"jakabj16\\outdatedBrowser\\": ""}
 	}
 }
