@@ -14,6 +14,7 @@
 		"yiisoft/yii2": "*",
 		"bower-asset/outdated-browser": "1.1.0"
 	},
+	"minimum-stability": "dev",
 	"autoload": {
 		"psr-4": {"sammaye\\outdatedBrowser\\": ""}
 	}
